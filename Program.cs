@@ -9,6 +9,7 @@ namespace getRequest
     {
         static void Main(string[] args)
         {
+            //comments from github editter web page
             string API_URL = "https://jsonplaceholder.typicode.com/posts";
             var client = new WebClient();
             var json = client.DownloadString(API_URL);
