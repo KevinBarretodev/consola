@@ -1,0 +1,17 @@
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\getRequest.exe
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\getRequest.deps.json
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\getRequest.runtimeconfig.json
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\getRequest.runtimeconfig.dev.json
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\getRequest.dll
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\ref\getRequest.dll
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\getRequest.pdb
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.AssemblyInfo.cs
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.dll
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\ref\getRequest.dll
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.pdb
+C:\Users\kevin\Documents\proyectoCSharp\getRequest\obj\Debug\net5.0\getRequest.genruntimeconfig.cache
